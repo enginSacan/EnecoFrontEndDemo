@@ -1,7 +1,7 @@
 # Playwright Typescript Example
 
 ## Overview
-This project contains automated test scenarios for verifying the functionalities of Suit supply web site by using Playwright Typescript.
+This project contains automated test scenarios for verifying the functionalities of Eneco web site by using Playwright Typescript.
 
 ## Project Structure
 - `pages`: Contains page objects for the website
